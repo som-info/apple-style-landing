@@ -1,0 +1,12 @@
+# Local preview screenshots
+preview/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Dependencies (none required, but just in case)
+node_modules/
